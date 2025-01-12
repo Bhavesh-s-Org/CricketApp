@@ -1,12 +1,11 @@
-
+import {} from 'react';
+import AppBar from './Components/AppBar'
 
 function App() {
 
   return (
     <>
-      <div>
-        Hi
-      </div>
+      <AppBar/>
       
     </>
   )
